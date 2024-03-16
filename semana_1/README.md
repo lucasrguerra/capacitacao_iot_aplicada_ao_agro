@@ -7,7 +7,7 @@ Essa semana foi dedicada à introdução à IoT e à visão geral da linguagem C
 - **[`Introdução`](https://youtu.be/WXmmkPNQVXk)** - Introdução à Capacitação
 - **[`Terminologias`](https://youtu.be/Yc5TWmfHIe0)** - Terminologias e conceitos importantes
 - **[`Analógico vs. Digital`](https://youtu.be/4UsS2pKGLWQ)** - Sinais Analógicos e Digitais
-- **[`Sistemas de Controle`](https://youtu.be/xhrNZv-JKd4)** - Sistemas de Controle e Automação.
+- **[`Sistemas de Controle`](https://youtu.be/xhrNZv-JKd4)** - Sistemas de Controle e Automação
 - **[`Open Software e Hardware`](https://youtu.be/I1yyjpnAXE8)** - Plataformas de Software e Hardware Abertas na IoT
 - **[`Linguagem C`](https://youtu.be/VVo3mhiWwWY)** - Introdução à Linguagem C
 - **[`Tipos de Dados`](https://youtu.be/6JkPbgTk4b8)** - Tipos de Dados em C

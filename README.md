@@ -7,7 +7,4 @@ Este curso visa proporcionar aos alunos uma compreensão abrangente dos conceito
 
 ## Estrutura do Curso
 - **[`Semana 1`](./semana_1/)**: Introdução à IoT e Visão Geral da Linguagem C
-- **[`Semana 2`](./semana_2/)**: Sensores e Dispositivos na Agropecuária
-- **[`Semana 3`](./semana_3/)**: Comunicação e Protocolos na IoT Agrícola
-- **[`Semana 4`](./semana_4/)**: Análise de Dados e Tomada de Decisão
-- **[`Semana 5`](./semana_5/)**: Implementação de Projetos de IoT na Agropecuária
+- **[`Semana 2`](./semana_2/)**: Conceitos Fundamentais de Eletrônica
