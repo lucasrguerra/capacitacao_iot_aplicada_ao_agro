@@ -8,3 +8,4 @@ Este curso visa proporcionar aos alunos uma compreensão abrangente dos conceito
 ## Estrutura do Curso
 - **[`Semana 1`](./semana_1/)**: Introdução à IoT e Visão Geral da Linguagem C
 - **[`Semana 2`](./semana_2/)**: Conceitos Fundamentais de Eletrônica
+- **[`Semana 3`](./semana_3/)**: Sensores e Interfaces de Comunicação
